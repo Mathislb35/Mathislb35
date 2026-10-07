@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mathis Lebreton-Béchu
 
-## 🚀 Web Developer | Bachelor 3 – MyDigitalSchool
+## 🚀 Developer Full Stack | Master – MyDigitalSchool
 
 I'm currently in my 3rd year of a Bachelor's degree in Web Development at MyDigitalSchool.  
 I focus on building structured, secure, and scalable web applications.
